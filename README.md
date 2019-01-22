@@ -27,11 +27,62 @@ array ('ARI' => 'Arica',
 
 ```javascript
 array( 
-		'ARI' => array(
-				'ARI'=>'Arica','RAR'=>'Rancho Arica','ARZ'=>'Alto Ramirez','APR'=>'Ausipar','AZA'=>'Azapa','POC'=>'Poconchile','AYA'=>'Sobraya','AVF'=>'Villa Frontera','CAM'=>'Camarones','ZYA'=>'Cuya','CZZ'=>'Cuz Cuz','AMO'=>'Molinos','ATS'=>'Aguas Calientes','AZT'=>'Azufrera Tacora','BNN'=>'Belen','CTM'=>'Caleta Camarones','ACQ'=>'Caquena','ACC'=>'Chacuyo','ACP'=>'Chapiquiña','CYH'=>'Chicaya','ACL'=>'Choquelimpie','ACZ'=>'Codpa','CQY'=>'Copaquilla','ACN'=>'Coronel Alcerreca','ACI'=>'Cosapilla','AQE'=>'Esquina','LGR'=>'General Lagos','GLL'=>'Guacollo','ALL'=>'Guallatiri','AGN'=>'Guanacahua','ITT'=>'Itisa','JRI'=>'Jurasi','CGA'=>'Lago Chungara','MKU'=>'Maillku','MMN'=>'Minimine','MIY'=>'Minita','NSH'=>'Nasahuento','APH'=>'Pachama','API'=>'Parinacota','PQS'=>'Puquisa','PTR'=>'Putre','QPT'=>'Quipinta','ASO'=>'Socoroma','SOR'=>'Sora','UCA'=>'Suca','TRG'=>'Taruguire','ATQ'=>'Termas De Chitune','ATG'=>'Tignamar','TCA'=>'Timalchaca','ATI'=>'Timar','VIU'=>'Villa Industrial','VIV'=>'Visviri'
-				),
-		'IQQ' => array(
-				'IQQ'=>'Iquique','AHP'=>'Alto Hospicio','ICB'=>'Caleta Buena','ZPL'=>'Playa Blanca','PAM'=>'Pozo Almonte','CMN'=>'Camina','IFB'=>'Fuerte Baquedano','HRA'=>'Huara','LGC'=>'La Huaica','LTI'=>'La Tirana','MAN'=>'Mamiña','MTA'=>'Matilla','OPC'=>'Pica','PIS'=>'Pisagua','IPP'=>'Puerto Patillos','QLB'=>'Punta Lobos','PJR'=>'Alpajeres','IAL'=>'Altuza','ANG'=>'Anaguani','CVT'=>'Ancovinto','ANQ'=>'Ancuaque','CTA'=>'Calatambo','ICC'=>'Caleta Chica','ICO'=>'Cancosa','ICQ'=>'Cariquima','RTA'=>'Caritaya','ICY'=>'Chapiquita','ICI'=>'Chiapa','PQA'=>'Chipana','ICA'=>'Chusmisa','COE'=>'Colchane','QLG'=>'Collacagua','CLH'=>'Collahuasi','ICP'=>'Colonia Pintados','QCR'=>'Corsa','QEP'=>'Enquelga','ZRC'=>'Guatacondo','IIS'=>'Isluga','ILI'=>'Lirima','IMA'=>'Macaya','IMF'=>'Mina Fakir','IML'=>'Mina Lobos','BQM'=>'Minera Quebrada Blanca','IMO'=>'Mocha','MCL'=>'Mocomucane','NMA'=>'Nama','IOV'=>'Oficina Victoria','IPH'=>'Pachica','PKA'=>'Palca','QPR'=>'Poroma','PQU'=>'Puquios','RSC'=>'Rio Seco','RFO'=>'San Marcos','STA'=>'Sotoca','IUJ'=>'Tambillo','ITP'=>'Tarapaca','IVV'=>'Vilavila'
+'ARI' => array(
+'ARI'=>'Arica',
+'RAR'=>'Rancho Arica',
+'ARZ'=>'Alto Ramirez',
+'APR'=>'Ausipar',
+'AZA'=>'Azapa',
+'POC'=>'Poconchile',
+'AYA'=>'Sobraya',
+'AVF'=>'Villa Frontera',
+'CAM'=>'Camarones',
+'ZYA'=>'Cuya',
+'CZZ'=>'Cuz Cuz',
+'AMO'=>'Molinos',
+'ATS'=>'Aguas Calientes',
+'AZT'=>'Azufrera Tacora',
+'BNN'=>'Belen',
+'CTM'=>'Caleta Camarones',
+'ACQ'=>'Caquena',
+'ACC'=>'Chacuyo',
+'ACP'=>'Chapiquiña',
+'CYH'=>'Chicaya',
+'ACL'=>'Choquelimpie',
+'ACZ'=>'Codpa',
+'CQY'=>'Copaquilla',
+'ACN'=>'Coronel Alcerreca',
+'ACI'=>'Cosapilla',
+'AQE'=>'Esquina',
+'LGR'=>'General Lagos',
+'GLL'=>'Guacollo',
+'ALL'=>'Guallatiri',
+'AGN'=>'Guanacahua',
+'ITT'=>'Itisa',
+'JRI'=>'Jurasi',
+'CGA'=>'Lago Chungara',
+'MKU'=>'Maillku',
+'MMN'=>'Minimine',
+'MIY'=>'Minita',
+'NSH'=>'Nasahuento',
+'APH'=>'Pachama',
+'API'=>'Parinacota',
+'PQS'=>'Puquisa',
+'PTR'=>'Putre',
+'QPT'=>'Quipinta',
+'ASO'=>'Socoroma',
+'SOR'=>'Sora',
+'UCA'=>'Suca',
+'TRG'=>'Taruguire',
+'ATQ'=>'Termas De Chitune',
+'ATG'=>'Tignamar',
+'TCA'=>'Timalchaca',
+'ATI'=>'Timar',
+'VIU'=>'Villa Industrial',
+'VIV'=>'Visviri'
+),
+'IQQ' => array(
+'IQQ'=>'Iquique','AHP'=>'Alto Hospicio','ICB'=>'Caleta Buena','ZPL'=>'Playa Blanca','PAM'=>'Pozo Almonte','CMN'=>'Camina','IFB'=>'Fuerte Baquedano','HRA'=>'Huara','LGC'=>'La Huaica','LTI'=>'La Tirana','MAN'=>'Mamiña','MTA'=>'Matilla','OPC'=>'Pica','PIS'=>'Pisagua','IPP'=>'Puerto Patillos','QLB'=>'Punta Lobos','PJR'=>'Alpajeres','IAL'=>'Altuza','ANG'=>'Anaguani','CVT'=>'Ancovinto','ANQ'=>'Ancuaque','CTA'=>'Calatambo','ICC'=>'Caleta Chica','ICO'=>'Cancosa','ICQ'=>'Cariquima','RTA'=>'Caritaya','ICY'=>'Chapiquita','ICI'=>'Chiapa','PQA'=>'Chipana','ICA'=>'Chusmisa','COE'=>'Colchane','QLG'=>'Collacagua','CLH'=>'Collahuasi','ICP'=>'Colonia Pintados','QCR'=>'Corsa','QEP'=>'Enquelga','ZRC'=>'Guatacondo','IIS'=>'Isluga','ILI'=>'Lirima','IMA'=>'Macaya','IMF'=>'Mina Fakir','IML'=>'Mina Lobos','BQM'=>'Minera Quebrada Blanca','IMO'=>'Mocha','MCL'=>'Mocomucane','NMA'=>'Nama','IOV'=>'Oficina Victoria','IPH'=>'Pachica','PKA'=>'Palca','QPR'=>'Poroma','PQU'=>'Puquios','RSC'=>'Rio Seco','RFO'=>'San Marcos','STA'=>'Sotoca','IUJ'=>'Tambillo','ITP'=>'Tarapaca','IVV'=>'Vilavila'
 				),
 		'CJC' => array(
 				'CJC'=>'Calama','QUI'=>'Chuquicamata','MRT'=>'Mina Radomiro Tomic','SPM'=>'Minera Spencer','CCI'=>'Conchi','CEY'=>'Cupo','MCD'=>'Mina Cerro Dominador','MFD'=>'Mina Faride','MGY'=>'Mina Gaby','SJE'=>'San Jose  ','SPX'=>'San Pedro De Atacama','TCO'=>'Toconao','CTN'=>'Tuina','CAA'=>'Aguas Blancas','CTZ'=>'Alitar','AMC'=>'Amincha','ASN'=>'Ascotan','QCA'=>'Aucanquilcha','CAY'=>'Ayquina','CBT'=>'Banos De Turi','CCZ'=>'Calachuz','CMR'=>'Camar','CCR'=>'Caracoles','CAP'=>'Caspana','CDQ'=>'Centinela','CHU'=>'Chiuchiu','CCV'=>'Conchi Viejo','ETC'=>'Estacion Carcote','CEB'=>'Estacion Cebollar','CCB'=>'Estacion Cerritos Bayos','FDT'=>'Flor Del Desierto','CJI'=>'Incacaliri','CXL'=>'Lasana','CLQ'=>'Lequena','LZR'=>'Linzor','MLZ'=>'Mellizos','ELA'=>'Mina El Abra','MLT'=>'Mina El Litio','OLL'=>'Ollague','PNI'=>'Peine','CXP'=>'Polan','RMA'=>'Puritama','RGS'=>'Rio Grande','CSB'=>'San Bartolo','SPD'=>'San Pedro','CSR'=>'Santa Rosa','CSE'=>'Socaire','CTB'=>'Talabre','CTP'=>'Tilo Pozo','CIL'=>'Tilomonte','COV'=>'Toconce','TTR'=>'Turi'
