@@ -1,7 +1,8 @@
 # REGIONES
 
 ```javascript
-array ('ARI' => 'Arica',
+array (
+'ARI' => 'Arica',
 'IQQ' => 'Iquique',
 'CJC' => 'Calama',
 'ANF' => 'Antofagasta',
